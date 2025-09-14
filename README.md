@@ -54,7 +54,12 @@
 
 ## รูปภาพหน้าจอ (Screenshots)
 
-(เพิ่มภาพจริงจากเกมของคุณที่โฟลเดอร์ `Screenshots/`)
+
+
+
+
+
+
 
 ![Gameplay 1](Screenshots/screen1.png)  
 ![Gameplay 2](Screenshots/screen2.png)  
